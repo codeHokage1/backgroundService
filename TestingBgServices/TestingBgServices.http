@@ -1,0 +1,6 @@
+@TestingBgServices_HostAddress = http://localhost:5169
+
+GET {{TestingBgServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
